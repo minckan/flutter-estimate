@@ -56,7 +56,7 @@ export default function FlutterQuoteTable() {
       icon: <Code className="w-5 h-5" />,
       items: [
         { name: "UI/UX 화면 개발", unit: "화면당", price: "5만원 ~ 30만원", detail: "화면 복잡도에 따라 상이 (간단한 정보 화면 5만원, 복잡한 인터랙션 30만원)" },
-        { name: "서버 연동 화면", unit: "화면당", price: "+5만원", detail: "서버 API 연동이 필요한 화면은 화면당 5만원 추가" }
+        { name: "서버 연동 화면", unit: "화면당", price: "5만원", detail: "서버 API 연동이 필요한 화면은 화면당 5만원 추가 됩니다." }
       ]
     },
     features: {
