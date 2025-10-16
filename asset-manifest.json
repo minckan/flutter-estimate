@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flutter_estimate/static/css/main.77a3886b.css",
+    "main.js": "/flutter_estimate/static/js/main.e668db63.js",
+    "static/js/453.af7d6625.chunk.js": "/flutter_estimate/static/js/453.af7d6625.chunk.js",
+    "index.html": "/flutter_estimate/index.html",
+    "main.77a3886b.css.map": "/flutter_estimate/static/css/main.77a3886b.css.map",
+    "main.e668db63.js.map": "/flutter_estimate/static/js/main.e668db63.js.map",
+    "453.af7d6625.chunk.js.map": "/flutter_estimate/static/js/453.af7d6625.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77a3886b.css",
+    "static/js/main.e668db63.js"
+  ]
+}
