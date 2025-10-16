@@ -37,7 +37,7 @@ export default function FlutterQuoteTable() {
       price: "400만원 ~ 600만원+",
       period: "2~3개월",
       features: [
-        "15개 이상 화면",
+        "15개 이상 화면..!",
         "고급 커스텀 UI/UX",
         "복잡한 기능 구현",
         "외부 API 다수 연동",
